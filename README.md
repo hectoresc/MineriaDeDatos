@@ -1,1 +1,4 @@
 # MineriaDeDatos
+
+·fase1
+
