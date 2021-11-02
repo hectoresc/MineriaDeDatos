@@ -14,6 +14,7 @@
 
 
 ··FASE2
+
 -[PRESENTACION TECNICAS DE MINERIA](https://github.com/hectoresc/MineriaDeDatos/blob/main/Presentacion_Patrones%20secuenciales_Equipo08.pdf)
 
 -[CODIGO PATRONES SECUENCIALES](https://github.com/hectoresc/MineriaDeDatos/blob/main/Ejemplo_PatronesSecuenciales_Equipo8.ipynb)
