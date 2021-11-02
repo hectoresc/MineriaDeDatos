@@ -4,6 +4,9 @@
 
 -[MAPA MENTAL](https://github.com/hectoresc/MineriaDeDatos/blob/main/WhatsApp%20Image%202021-08-09%20at%2023.14.04%20(1).jpeg)
 
+-[EXAMEN DIAGNOSTICO](https://github.com/hectoresc/MineriaDeDatos/blob/main/Examen%20diagnostico_1_1745909.pdf)
+
+
 -[EJERCICIOS BASE DE DATOS](https://github.com/BrendaHernandez28/FCFM_MineriaDts/blob/main/Equipo_8_Ejercicio.Base.de.Datos.pdf)
 
 -[EJERICIOS PYTHON](https://github.com/hectoresc/MineriaDeDatos/blob/main/ej_python_1745909.ipynb)
